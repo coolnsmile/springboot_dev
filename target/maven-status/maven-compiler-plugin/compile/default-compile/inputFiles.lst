@@ -1,0 +1,4 @@
+/home/ubuntu/sw/was2/src/main/java/com/apress/spring/SpringBootJournalApplication.java
+/home/ubuntu/sw/was2/src/main/java/com/apress/spring/web/JournalController.java
+/home/ubuntu/sw/was2/src/main/java/com/apress/spring/exception/NoMoreStockException.java
+/home/ubuntu/sw/was2/src/main/java/com/apress/spring/exception/ProductNotFoundException.java
