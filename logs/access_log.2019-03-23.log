@@ -1,0 +1,8 @@
+2019-03-23 12:00:24	200	GET / HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36	-	0:0:0:0:0:0:0:1	936   
+2019-03-23 12:00:24	200	GET /css/app.0de44250.css HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36	http://localhost:8080/	0:0:0:0:0:0:0:1	209   
+2019-03-23 12:00:24	200	GET /js/app.f5f04603.js HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36	http://localhost:8080/	0:0:0:0:0:0:0:1	18964   
+2019-03-23 12:00:24	200	GET /css/chunk-vendors.64bcdc0c.css HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36	http://localhost:8080/	0:0:0:0:0:0:0:1	173134   
+2019-03-23 12:00:24	200	GET /js/about.e2841302.js HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36	http://localhost:8080/	0:0:0:0:0:0:0:1	455   
+2019-03-23 12:00:24	200	GET /js/chunk-vendors.5ebb3f17.js HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36	http://localhost:8080/	0:0:0:0:0:0:0:1	3299598   
+2019-03-23 12:00:24	200	GET /img/logo.07d1e22e.svg HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36	http://localhost:8080/	0:0:0:0:0:0:0:1	540   
+2019-03-23 12:00:25	200	GET /favicon.ico HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36	http://localhost:8080/	0:0:0:0:0:0:0:1	1150   
