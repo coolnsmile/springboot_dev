@@ -1,4 +1,6 @@
-D:\00_DEV\springboot_dev\src\main\java\com\apress\spring\exception\ProductNotFoundException.java
-D:\00_DEV\springboot_dev\src\main\java\com\apress\spring\exception\NoMoreStockException.java
-D:\00_DEV\springboot_dev\src\main\java\com\apress\spring\SpringBootJournalApplication.java
-D:\00_DEV\springboot_dev\src\main\java\com\apress\spring\web\JournalController.java
+d:\00_DEV\springboot_dev\src\main\java\com\apress\spring\exception\ProductNotFoundException.java
+d:\00_DEV\springboot_dev\src\main\java\com\apress\spring\domain\serverInfo.java
+d:\00_DEV\springboot_dev\src\main\java\com\apress\spring\web\ScmController.java
+d:\00_DEV\springboot_dev\src\main\java\com\apress\spring\exception\NoMoreStockException.java
+d:\00_DEV\springboot_dev\src\main\java\com\apress\spring\SpringBootJournalApplication.java
+d:\00_DEV\springboot_dev\src\main\java\com\apress\spring\web\JournalController.java

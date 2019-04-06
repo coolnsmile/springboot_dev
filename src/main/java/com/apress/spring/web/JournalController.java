@@ -1,5 +1,15 @@
 package com.apress.spring.web;
 
+import java.io.File;
+import java.io.FileInputStream;
+
+import com.jcraft.jsch.Channel;
+import com.jcraft.jsch.*;
+
+
+
+
+
 import java.util.*;
 import java.io.*;
 
@@ -15,6 +25,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -34,6 +45,15 @@ import org.springframework.beans.factory.annotation.Value;
 
 import org.springframework.context.annotation.Configuration;
 
+import com.apress.spring.domain.serverInfo;
+
+import java.util.concurrent.TimeUnit;
+
+import java.util.StringTokenizer;
+import java.util.concurrent.*;
+
+import org.codehaus.*;
+import org.json.simple.*;
 
 
 
@@ -43,9 +63,10 @@ import org.springframework.context.annotation.Configuration;
 @Component
 @PropertySource("classpath:global.properties")
 @Controller
+@CrossOrigin("*")
 public class JournalController {
     private static final Logger log = LoggerFactory.getLogger(JournalController.class);
-    private static final String VIEW_INDEX = "index";
+  
     private static final Charset UTF8_CHARSET = Charset.forName("UTF-8");
 
 

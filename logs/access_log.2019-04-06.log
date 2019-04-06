@@ -1,0 +1,12 @@
+2019-04-06 23:52:55	405	GET /postData HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36	-	0:0:0:0:0:0:0:1	337   
+2019-04-06 23:52:55	200	GET /favicon.ico HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36	http://localhost:8081/postData	0:0:0:0:0:0:0:1	1150   
+2019-04-06 23:52:58	200	GET / HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36	-	0:0:0:0:0:0:0:1	936   
+2019-04-06 23:52:58	200	GET /css/app.0de44250.css HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36	http://localhost:8081/	0:0:0:0:0:0:0:1	209   
+2019-04-06 23:52:58	200	GET /js/app.82d3ee4d.js HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36	http://localhost:8081/	0:0:0:0:0:0:0:1	19515   
+2019-04-06 23:52:58	200	GET /css/chunk-vendors.81a7a1bc.css HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36	http://localhost:8081/	0:0:0:0:0:0:0:1	173134   
+2019-04-06 23:52:58	200	GET /js/about.e2841302.js HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36	http://localhost:8081/	0:0:0:0:0:0:0:1	455   
+2019-04-06 23:52:58	200	GET /js/chunk-vendors.40450eeb.js HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36	http://localhost:8081/	0:0:0:0:0:0:0:1	3299982   
+2019-04-06 23:52:58	200	GET /js/chunk-vendors.40450eeb.js.map HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36	-	0:0:0:0:0:0:0:1	12152042   
+2019-04-06 23:52:59	200	GET /img/logo.07d1e22e.svg HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36	http://localhost:8081/	0:0:0:0:0:0:0:1	540   
+2019-04-06 23:52:59	200	GET /js/app.82d3ee4d.js.map HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36	-	0:0:0:0:0:0:0:1	93156   
+2019-04-06 23:56:17	200	OPTIONS /postData HTTP/1.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36	http://localhost:8080/graph	0:0:0:0:0:0:0:1	-   
